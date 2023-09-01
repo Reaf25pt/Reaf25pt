@@ -25,6 +25,22 @@
   <a href="https://www.codewars.com/users/Reaf25pt"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
 </div>
 
+## Estatísticas
+<div align='center'>
+  <img height ="150em" src="https://github-readme-stats.vercel.app/api?username=Reaf25pt&show_icons=true&theme=gruvbox"/>
+  <img align='right' height='150em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reaf25pt&layout=compact"/>
+</div>
+
+## Projetos
+
+<div align='center'>
+  <div> 
+    <h3>Aplicações REST </h3>
+  </div>
+  <div > 
+    <h3>Ciência de Dados</h3>
+  </div>
+</div>
 
 
 
