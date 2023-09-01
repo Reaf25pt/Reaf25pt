@@ -33,14 +33,6 @@
 
 ## Projetos
 
-<div align='center'>
-  <div> 
-    <h3>Aplicações REST </h3>
-  </div>
-  <div > 
-    <h3>Ciência de Dados</h3>
-  </div>
-</div>
 
 
 
