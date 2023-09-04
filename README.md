@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Reaf25pt/Reaf25pt/blob/master/github_banner.jpeg" alt="selfie" />
+<img src="https://github.com/Reaf25pt/Reaf25pt/blob/master/github_banner.png" alt="selfie" />
 
 ## Competências ⚡
 <div >
