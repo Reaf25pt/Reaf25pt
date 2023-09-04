@@ -2,7 +2,8 @@
 
 
 
-<img src="https://github.com/Reaf25pt/Reaf25pt/blob/master/header.png" >
+<img src="https://github.com/Reaf25pt/Reaf25pt/blob/main/header.png" >
+
 
 ## Competências ⚡
 <div >
