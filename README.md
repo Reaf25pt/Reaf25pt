@@ -1,9 +1,6 @@
 # Olá, sou Rodrigo Ferreira(Reaf25) 👋
 
-#### Frequentei um curso intensivo de programação no DEI(Departamento Engenhenaria Informática) em Coimbra. 
-As principais linguagens no curso era Java, Javascript e SQL.
 
-<p>Os projetos elaborados no curso estão no repositório.</p>
 
 
 ## Competências ⚡
