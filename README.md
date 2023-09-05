@@ -31,7 +31,8 @@
 
 ###  Projetos do Curso AOR 🛠️
 
-<a src="https://github.com/Reaf25pt/BusProject"><img height='130' width='130' src="https://github.com/Reaf25pt/BusProject/blob/main/capa.jpg"/></a>
+<h3>Projeto Autocarro</h3>
+<a href="https://github.com/Reaf25pt/BusProject"><img height='130' width='130' src="https://github.com/Reaf25pt/BusProject/blob/main/capa.jpg"/> </a>
 
 
 
