@@ -50,6 +50,8 @@
     <td><h3 align='center'>Planeamento Pessoal</h3></td>
   </tr>
   <tr>
+     <td><a href="https://github.com/Reaf25pt/planner"><img height='300' width='500' src="https://github.com/Reaf25pt/planner/blob/main/docs/capa.jpg"/> </a></td>
+
   </tr>
  </table>
   
