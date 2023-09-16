@@ -19,7 +19,7 @@
 
 <h2> Redes Sociais 📸</h2>
 <div >
-  <a href="www.linkedin.com/in/rodrigo-ferreira-b4a6a698"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
+  <a href="www.linkedin.com/in/rodrigo-ferreira-b4a6a698"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
   <a href="https://www.codewars.com/users/Reaf25pt"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/> </a>
 </div>
 
