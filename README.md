@@ -43,6 +43,20 @@
  </table>
 </div>
 
+  <h2>Projetos Pessoais 💡</h2>
+  <div align='center'>
+  <table>
+  <tr>
+    <td><h3 align='center'>Planeamento Pessoal</h3></td>
+  </tr>
+  <tr>
+  </tr>
+ </table>
+  
+
+  
+</div>
+
 
 
 
